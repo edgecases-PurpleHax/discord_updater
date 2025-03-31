@@ -1,3 +1,3 @@
-# Feature: Enhanced Customization
-## State: In Progress
+# Feature: Multi-platform status updates
+## State: Backlog
 ### Dev notes to come
