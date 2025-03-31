@@ -73,7 +73,7 @@ For support or feedback:
 
 ## Version 2.0 in development
 ### What's to come
-- [ ] GUI (WIP)
+- [ ] GUI [(WIP)](https://github.com/edgecases-PurpleHax/discord_updater/tree/feature-gui)
   - A streamlined approach to creating the necessary configuration files 
     for the application to work. such as adding in discord token and time
 - [ ] Additional customization
