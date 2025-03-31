@@ -69,3 +69,7 @@ Currently, no common issues have been identified. Should you encounter problems 
 For support or feedback:
 - **Discord**: _edgecase
 - **Email**: [purplehaxttv@gmail.com](mailto:purplehaxttv@gmail.com)
+
+## ROADMAP
+Please check [here](https://github.com/edgecases-PurpleHax/discord_updater/tree/develop) for current features 
+in development, future releases, etc. 
