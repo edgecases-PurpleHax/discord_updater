@@ -76,13 +76,13 @@ For support or feedback:
 - [ ] GUI [(WIP)](https://github.com/edgecases-PurpleHax/discord_updater/tree/feature-gui)
   - A streamlined approach to creating the necessary configuration files 
     for the application to work. such as adding in discord token and time
-- [ ] Additional customization
+- [ ] Additional customization [(SD)](https://github.com/edgecases-PurpleHax/discord_updater/tree/enhanced_customizations)
   - Currently, a bit more math is necessary for the user than is desired. 
     This customization will allow users to specify if they are entering 
     time in seconds, minutes, or hours.
 - [ ] Reduction of executables. Plan for a single executable focused on 
   stream deck and Firebot deployment that allows for arguments to be passed 
-- [ ] Increased functionality
+- [ ] Increased functionality [(BL)](https://github.com/edgecases-PurpleHax/discord_updater/tree/multi_platform_updates)
   - Ideally this will become an all-in-one status updater. You will be able 
     to associate multiple social platforms such as BlueSky, Twitter (I 
     refuse to call it X), Instagram, etc.  
