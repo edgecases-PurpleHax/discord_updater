@@ -1,3 +1,3 @@
-# Dev in Progress
-
-## Dev notes to come
+# Feature: Enhanced Customization
+## State: Selected for Dev
+### Dev notes to come
