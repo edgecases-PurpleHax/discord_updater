@@ -69,3 +69,21 @@ Currently, no common issues have been identified. Should you encounter problems 
 For support or feedback:
 - **Discord**: _edgecase
 - **Email**: [purplehaxttv@gmail.com](mailto:purplehaxttv@gmail.com)
+
+
+## Version 2.0 in development
+### What's to come
+- [ ] GUI (WIP)
+  - A streamlined approach to creating the necessary configuration files 
+    for the application to work. such as adding in discord token and time
+- [ ] Additional customization
+  - Currently, a bit more math is necessary for the user than is desired. 
+    This customization will allow users to specify if they are entering 
+    time in seconds, minutes, or hours.
+- [ ] Reduction of executables. Plan for a single executable focused on 
+  stream deck and Firebot deployment that allows for arguments to be passed 
+- [ ] Increased functionality
+  - Ideally this will become an all-in-one status updater. You will be able 
+    to associate multiple social platforms such as BlueSky, Twitter (I 
+    refuse to call it X), Instagram, etc.  
+Please switch to named branches for current updates per branch
