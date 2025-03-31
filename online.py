@@ -19,4 +19,3 @@ jsondata = {
 }
 
 request = requests.patch(url, headers=header, json=jsondata)
-
