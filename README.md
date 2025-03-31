@@ -76,7 +76,7 @@ For support or feedback:
 - [ ] GUI [(WIP)](https://github.com/edgecases-PurpleHax/discord_updater/tree/feature-gui)
   - A streamlined approach to creating the necessary configuration files 
     for the application to work. such as adding in discord token and time
-- [ ] Additional customization [(SD)](https://github.com/edgecases-PurpleHax/discord_updater/tree/feature-enhanced_customizations)
+- [ ] Additional customization [(SD)](https://github.com/edgecases-PurpleHax/discord_updater/tree/feature-enhanced_customization)
   - Currently, a bit more math is necessary for the user than is desired. 
     This customization will allow users to specify if they are entering 
     time in seconds, minutes, or hours.
