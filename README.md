@@ -55,14 +55,16 @@ Currently, no common issues have been identified. Should you encounter problems 
 
 ## 7. FAQ
 
-**Q: Where do I find my Discord token?**
-**A**: Follow the steps in the **Obtaining the Discord Token** section.
+**Q: Where do I find my Discord token?**  
+**A**: Follow the steps in the **Obtaining the Discord Token** section.  
 
-**Q: What happens if my Discord token expires or is revoked?**
-**A**: You will need to obtain a new token following the same steps and update your `config.json` file accordingly.
+**Q: What happens if my Discord token expires or is revoked?**  
+**A**: You will need to obtain a new token following the same steps and 
+update your `config.json` file accordingly.  
 
-**Q: How can I stop the application from updating my status?**
-**A**: Simply close the `custom_updater.exe` application, or remove the messages from `custom_status_messages.txt`.
+**Q: How can I stop the application from updating my status?**  
+**A**: Simply close the `custom_updater.exe` application, or remove the 
+messages from `custom_status_messages.txt`.  
 
 ## 8. Contact Information
 
