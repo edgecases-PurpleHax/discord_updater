@@ -85,11 +85,13 @@ update your `config.json` file accordingly.
 messages from `custom_status_messages.txt`.    
 **Q: How can I stop the application from updating my status?**
 **A**: Simply close the `custom_updater.exe` application, or remove the messages from `custom_status_messages.txt`.
+
 **Q: Can we add blank lines at the end of the status messages text to show 
 no status for a short time before it resets to the top or will blank lines 
 kill it?**
 **A**: You can add blank lines! They are accepted and will read as blank 
 status for the time set in config files.  
+
 **Q: Can we use emojis and unicode emoticons in the text file?**
 **A**: You absolutely can! To use emojis, you will want to copy the emoji
 from whatever source you are using, not any keyboard shortcuts.  
