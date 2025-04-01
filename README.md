@@ -83,6 +83,7 @@ update your `config.json` file accordingly.
 **Q: How can I stop the application from updating my status?**  
 **A**: Simply close the `custom_updater.exe` application, or remove the 
 messages from `custom_status_messages.txt`.    
+
 **Q: How can I stop the application from updating my status?**
 **A**: Simply close the `custom_updater.exe` application, or remove the messages from `custom_status_messages.txt`.
 
