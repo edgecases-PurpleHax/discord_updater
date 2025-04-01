@@ -89,10 +89,11 @@ messages from `custom_status_messages.txt`.
 no status for a short time before it resets to the top or will blank lines 
 kill it?**
 **A**: You can add blank lines! They are accepted and will read as blank 
-status for the time set in config files.
+status for the time set in config files.  
 **Q: Can we use emojis and unicode emoticons in the text file?**
-**A**: You absolutely can! To use emojis, you will want to copy the emoji 
+**A**: You absolutely can! To use emojis, you will want to copy the emoji
 from whatever source you are using, not any keyboard shortcuts.  
+
 ## 8. Contact Information
 
 For support or feedback:
